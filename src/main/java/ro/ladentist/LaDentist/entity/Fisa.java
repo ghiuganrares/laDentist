@@ -8,7 +8,7 @@ public class Fisa {
 	private Diagnostic diagnostic;
 	private String planTratament;
 	private List<Tratament> tratamente;
-	
+	//
 	
 	
 	public int getId() {
